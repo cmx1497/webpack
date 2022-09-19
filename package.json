@@ -1,0 +1,28 @@
+{
+  "name": "my",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "con": "zwuer",
+    "zwuer build": "zwuer build zwu.config.js",
+    "zwuer dev": "zwuer dev zwu.config.js",
+    "zwuer create": "zwuer create zwu.config.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "zwuer": "^1.0.9",
+    "commander": "^9.4.0",
+    "download-git-repo": "^3.0.2",
+    "html-webpack-plugin": "^5.5.0",
+    "inquirer": "^8.2.4",
+    "ora": "^6.1.2",
+    "webpack": "^5.74.0",
+    "webpack-dev-server": "^4.10.0"
+  },
+  "directories": {
+    "example": "example"
+  },
+  "description": ""
+}
